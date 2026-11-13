@@ -1,4 +1,4 @@
-git clone https://github.com/hermit-claw/android_device_nothing_Tetris.git -b lineage-24.0 device/nothing/Tetris
+git clone https://github.com/CMF-Phone-1/android_device_nothing_Tetris.git -b voltage device/nothing/Tetris
 #This is lineage os tree so you guy need to edit it 
 git clone https://github.com/CMF-Phone-1/android_device_nothing_Tetris-kernel.git device/nothing/Tetris-kernel
 git clone https://github.com/CMF-Phone-1/proprietary_vendor_nothing_Tetris.git vendor/nothing/Tetris
